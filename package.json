@@ -1,7 +1,7 @@
 {
   "name": "spoorthy",
   "version": "0.1.0",
-  "homepage": "http://spoorthydesign.github.io/spoorthy-front-end",
+  "homepage": "http://spoorthydesign.github.io",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
